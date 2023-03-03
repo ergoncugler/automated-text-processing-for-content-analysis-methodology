@@ -6,7 +6,7 @@
 
 **01.) Topic:** A topic you want to add; **02.) Sub Topic:** A sub topic you want to add;  **03.) Original Content (Input):** Here you add the content to be treated automatically, being the input; and **04.) Formatted Content (Output):** Here you extract your formatted content, being your output.
 
-It can be accessed at: **<a href="https://github.com/ergoncugler/automated-text-processing-for-content-analysis-methodology/blob/main/SpreadSheet%20-%20Automated%20Text%20Processing%20for%20Content%20Analysis%20Methodology%20-%20Code-Free%20-%20For%20Iramuteq%20and%20Others.xlsx">[Automated Text Processing for Content Analysis Methodology without Code, just SpreadSheet]</a>**.
+You can download it here (.xlsx): **<a href="https://github.com/ergoncugler/automated-text-processing-for-content-analysis-methodology/blob/main/SpreadSheet%20-%20Automated%20Text%20Processing%20for%20Content%20Analysis%20Methodology%20-%20Code-Free%20-%20For%20Iramuteq%20and%20Others.xlsx">[Download Automated Text Processing for Content Analysis Methodology without Code, just SpreadSheet]</a>**. You also can access an online Google Sheets' version and create a copy to your Google Drive (recommended, because it was created from Google Sheets): **<a href="https://docs.google.com/spreadsheets/d/1y4efZt9f08si4VGTCRwFn611COSym-vsIdF9hRgdu5o/edit?usp=sharing">[Copy to Google Automated Text Processing for Content Analysis Methodology without Code, just SpreadSheet]</a>**.
 
 ![image](https://user-images.githubusercontent.com/81989837/222852798-3c6ab1ea-cade-4a92-b496-4997225a712b.png)
 
